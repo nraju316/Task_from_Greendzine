@@ -1,0 +1,13 @@
+.user-avatar {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-style:double;
+  border-width: 10px; 
+ border-color:whitesmoke; 
+ 
+}
+
+.user-name {
+  font-weight: bold;
+}
